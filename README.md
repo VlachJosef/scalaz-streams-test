@@ -1,0 +1,2 @@
+scalaz-streams-test
+===================
